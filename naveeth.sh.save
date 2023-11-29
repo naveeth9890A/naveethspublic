@@ -1,0 +1,9 @@
+chmod+x naveeth.sh
+chmod +x naveeth.sh
+#!/bin/bash
+for i in {1..10}
+do 
+   echo $i
+done
+
+
